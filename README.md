@@ -11,7 +11,7 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 
 
 
-<h4>Created by combining two iron ingots, a nautilus shell, and Heart of the Sea, the Nautilus Claw provides +10 Block Reach to players. It can also break blocks an Iron Pickaxe can break.<h4>
+<h4>Created by combining two iron ingots, a nautilus shell, and Heart of the Sea, the Nautilus Claw provides +10 Block Reach. It can also break blocks an Iron Pickaxe can break.<h4>
 
 
 <h2>The Reinforced Claw<h2>
@@ -20,7 +20,7 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 
 
  
-<h4>By combining five iron ingots with your Nautilus Claw, the Reinforced Claw provides +10 Block Reach to players, an extra +10 Armor Points, and extra durability. It can also break blocks a Diamond Pickaze can break.<h4>
+<h4>By combining five iron ingots with your Nautilus Claw, the Reinforced Claw provides +10 Block Reach, extra +10 Armor Points, and extra durability. It can also break blocks a Diamond Pickaxe can break.<h4>
 <h1>============================================<h1>
 
 <h3>**Upcoming Royal Weapons**<h3>
