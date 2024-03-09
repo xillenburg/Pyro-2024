@@ -41,7 +41,8 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 <h2>Royal Titan Armor Fragment<h2>
  
 ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/b0a92644-f8d6-4732-a772-7ea417d5d1a4)
-<h4>Main ingredient of the Royal Weapon variants. Provides 6 Armor Points when held.<h4>
+<h3>Main ingredient of the Royal Weapon variants. Provides 6 Armor Points when held.<h3>
+
 
 
 <h3>**Upcoming Weapons (CONCEPT ARTS)**<h3>
