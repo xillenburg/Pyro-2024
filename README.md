@@ -41,3 +41,7 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 <h3>**Upcoming Weapons (CONCEPT ARTS)**<h3>
 
 <h4>Here are the upcoming weapons and trinkets coming soon!<h4>
+
+<h2>Chronos' Blood Magic Temporal Accelerator<h2>
+
+ ![speed](https://github.com/xillenburg/Pyro-2024/assets/92593235/5e4282d1-23ce-4d61-b2db-da37a987ca54)
