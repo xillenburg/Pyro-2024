@@ -14,10 +14,13 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 <h4>Created by combining two iron ingots, a nautilus shell, and Heart of the Sea, the Nautilus Claw provides +10 Block Reach to players. It can also break blocks an Iron Pickaxe can break.<h4>
 
 
-<h2>Reinforced Claw<h2>
+<h2>The Reinforced Claw<h2>
 
 ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/2082ac29-dce0-45f4-b645-06a3c9d9ccb3) ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/85f5a74c-518f-4bad-b895-a6e04b57261c)
 
 
  
 <h4>By combining five iron ingots with your Nautilus Claw, the Reinforced Claw provides +10 Block Reach to players, an extra +10 Armor Points, and extra durability. It can also break blocks a Diamond Pickaze can break.<h4>
+<h3>**Upcoming Royal Weapons**<h3>
+
+<h4>Royal Weapons are Vanilla weapons forged with the remnants of the Titan Armor, also known as the Royal Titan Armor Fragment, enhancing their stats and providing extra defenses resonated by the fragmented armor of the long-extinct Titan Race.<h4>
