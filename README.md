@@ -7,7 +7,8 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 
 <h2>The Nautilus Claw<h2>
 
-![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/a5e5ea29-0202-47c5-a093-5d2a9c6c204c)
+![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/a5e5ea29-0202-47c5-a093-5d2a9c6c204c) ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/54ba1491-62c8-4ef9-b156-041e3b43d3f8)
+
 
 
 <h4>Created by combining two iron ingots, a nautilus shell, and Heart of the Sea, the Nautilus Claw provides +10 Block Reach to players.<h4>
