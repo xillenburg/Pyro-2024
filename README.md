@@ -21,6 +21,8 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 
  
 <h4>By combining five iron ingots with your Nautilus Claw, the Reinforced Claw provides +10 Block Reach to players, an extra +10 Armor Points, and extra durability. It can also break blocks a Diamond Pickaze can break.<h4>
+<h1>============================================<h1>
+
 <h3>**Upcoming Royal Weapons**<h3>
 
 <h4>Royal Weapons are Vanilla weapons forged with the remnants of the Titan Armor, also known as the Royal Titan Armor Fragment, enhancing their stats and providing extra defenses resonated by the fragmented armor of the long-extinct Titan Race.<h4>
@@ -42,10 +44,9 @@ But the aethereal and purgatorial energy from the past war continues to resonate
  
 ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/b0a92644-f8d6-4732-a772-7ea417d5d1a4)
 <h3>Main ingredient of the Royal Weapon variants. Provides 6 Armor Points when held.<h3>
+<h1>============================================<h1>
 
-
-
-<h3>**Upcoming Weapons (CONCEPT ARTS)**<h3>
+<h3>**Upcoming Weapons & Items (CONCEPT ARTS)**<h3>
 
 <h4>Here are the upcoming weapons and trinkets coming soon!<h4>
 
