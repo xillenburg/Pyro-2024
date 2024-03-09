@@ -24,3 +24,17 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 <h3>**Upcoming Royal Weapons**<h3>
 
 <h4>Royal Weapons are Vanilla weapons forged with the remnants of the Titan Armor, also known as the Royal Titan Armor Fragment, enhancing their stats and providing extra defenses resonated by the fragmented armor of the long-extinct Titan Race.<h4>
+
+<h2>Royal Sword<h2>
+
+![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/002b0811-39b0-4dea-aef3-08d95c680178) ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/3b193d68-1352-4560-971a-78ba96a440bc)
+
+<h2>Royal Axe<h2>
+ 
+![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/3814b4d3-fdcb-4c80-b9c1-411319f2b221) ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/733c5989-414a-4bb7-8ff5-951146b13cc8)
+
+<h2>Royal Bow<h2>
+ 
+![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/0f6ed8b6-5e08-47e3-bb5e-83090410ce02) ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/f133bd71-5d94-40dc-b374-f416cb591fce)
+
+
