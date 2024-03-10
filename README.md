@@ -73,6 +73,8 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 - Dwarfism Potion
 - Invisibility Dagger
 - Buff Serums
+- Kinetic Sword
+- Kinetic Boots
 
 **New Tier Weapons upgraded from Royal Tier: Imperial >> Supreme >> Omega**
 
