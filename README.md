@@ -93,10 +93,15 @@ Returning Prototype 2021-2023 World items:
 - Electric Bomb
 - Gravity Bomb
 
+
 **MISC**
-Mid Game: 
+
+Mid Game:
+
 - Silverfish Master's Gambling Shop
-Late Game
+
+Late Game:
+
 - (if possible) Luck Block Vault
 
 <h4>
