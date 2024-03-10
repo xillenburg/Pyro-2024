@@ -67,6 +67,7 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 
 <h3>**OTHER PLANNED FEATURES**<h3>
 <h4>
+ 
 - Echoing Void Cannon
 - Gigantism Potion
 - Dwarfism Potion
