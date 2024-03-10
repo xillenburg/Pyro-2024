@@ -3,6 +3,7 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 
 <h1>This page is dedicated for new weapon previews and showcases<h1>
 <h1>============================================<h1>
+<h2>ALL TEXTURES ARE SUBJECTED TO CHANGE<h2>
 <h3>**Upcoming Weapons**<h3>
 
 <h2>The Nautilus Claw<h2>
@@ -62,5 +63,7 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 
 <h2>Mini boss - Giant Killer Rabbit<h2>
 
-![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/dd323f9e-be82-4f71-9e2a-d8cd503da7a4)
+![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/5af5d3b5-4d0b-469a-9e8f-0415b45e384d) ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/3228e842-f2c9-492e-9f20-81f697e72f36)
+
+
 
