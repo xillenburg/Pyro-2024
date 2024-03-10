@@ -4,6 +4,8 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 <h1>This page is dedicated for new weapon previews and showcases<h1>
 <h1>============================================<h1>
 <h2>ALL TEXTURES ARE SUBJECTED TO CHANGE<h2>
+<h2>CREATION OF ITEMS WITH CUSTOM RECIPES ARE CURRENTLY POSTPONED UNTIL MOJANG UPDATES THEIR CODE<h2>
+ 
 <h3>**Upcoming Weapons**<h3>
 
 <h2>The Nautilus Claw<h2>
