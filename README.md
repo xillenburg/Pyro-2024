@@ -65,5 +65,10 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 
 ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/5af5d3b5-4d0b-469a-9e8f-0415b45e384d) ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/3228e842-f2c9-492e-9f20-81f697e72f36)
 
+<h3>**OTHER PLANNED FEATURES**<h3>
+<h4>
+- Echoing Void Cannon
 
 
+
+<h4>
