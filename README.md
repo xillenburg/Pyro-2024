@@ -70,7 +70,8 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 
 <h3>**OTHER PLANNED FEATURES**<h3>
 <h4>
- 
+
+**Weapons**
 - Echoing Void Cannon
 - Gigantism Potion
 - Dwarfism Potion
@@ -92,6 +93,10 @@ Returning Prototype 2021-2023 World items:
 - Electric Bomb
 - Gravity Bomb
 
-
+**MISC**
+Mid Game: 
+- Silverfish Master's Gambling Shop
+Late Game
+- (if possible) Luck Block Vault
 
 <h4>
