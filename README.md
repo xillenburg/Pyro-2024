@@ -60,7 +60,7 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/c3421779-c829-48c8-a4fa-8ff79e937f4a)
 <h4>The Eye of the Timehalter drains a portion of the user's life to stop the in-game time temporarily. **(One time use)**<h4>
 
-<h2>Miniboss - Giant Killer Rabbit<h2>
+<h2>Mini boss - Giant Killer Rabbit<h2>
 
 ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/dd323f9e-be82-4f71-9e2a-d8cd503da7a4)
 
