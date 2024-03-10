@@ -74,9 +74,7 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 - Invisibility Dagger
 - Buff Serums
 
-*New Tier Weapons upgraded from Royal Tier: Imperial
-*New Tier Weapons upgraded from Imperial Tier: Supreme
-*New Tier Weapons upgraded from Supreme Tier: Omega
+**New Tier Weapons upgraded from Royal Tier: Imperial >> Supreme >> Omega**
 
 Returning Pyro2020 World items:
 - Nether Axe Crossbow(will be reworked)
