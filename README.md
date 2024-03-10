@@ -68,6 +68,25 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 <h3>**OTHER PLANNED FEATURES**<h3>
 <h4>
 - Echoing Void Cannon
+- Gigantism Potion
+- Dwarfism Potion
+- Invisibility Dagger
+- Buff Serums
+
+New Tier Weapons upgraded from Royal Tier: Imperial
+New Tier Weapons upgraded from Imperial Tier: Supreme
+New Tier Weapons upgraded from Supreme Tier: Omega
+
+Returning Pyro2020 World items:
+- Nether Axe Crossbow(will be reworked)
+- Mechanical Crossbow
+- Rapid Crossbow
+- Teleportation Kunai
+
+Returning Prototype 2021-2023 World items:
+- Kinetic Shield
+- Electric Bomb
+- Gravity Bomb
 
 
 
