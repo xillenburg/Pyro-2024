@@ -107,17 +107,13 @@ Late Game:
 <h4>
 
 <h2>ISLAND SCREENSHOTS<h2>
+<h2>ACCIDENTALLY DELETED THE MAIN MAP. CURRENTLY REMAKING<h2>
 
-<h3>Main Island<h3>
+<h3>**With careful consideration, I have decided to make 4 large islands instead of 8 medium sized islands**<h3>
 
-![2024-03-11_15 25 31](https://github.com/xillenburg/Pyro-2024/assets/92593235/1d1743b5-eb9f-4efa-8180-1d0d7111aeb3)
-![2024-03-11_15 25 47](https://github.com/xillenburg/Pyro-2024/assets/92593235/65e98785-4bf9-42fe-9028-9fed9eb5278e)
-![2024-03-11_15 26 08](https://github.com/xillenburg/Pyro-2024/assets/92593235/2ddc15e6-6725-44c7-b33b-32556d91d471)
-![2024-03-11_15 26 19](https://github.com/xillenburg/Pyro-2024/assets/92593235/ae3bab8c-ef6d-44fc-aeed-fe6a4d13f921)
-![2024-03-11_15 27 21](https://github.com/xillenburg/Pyro-2024/assets/92593235/ad061f80-bc96-45f3-951d-e5303d971865)
-![2024-03-11_15 27 39](https://github.com/xillenburg/Pyro-2024/assets/92593235/4d478121-788d-4e0d-9188-8fe6cc5f74aa)
-![2024-03-11_15 28 12](https://github.com/xillenburg/Pyro-2024/assets/92593235/b1c0b11b-c955-4503-b645-6c0a90e4dec6)
-![2024-03-11_15 28 20](https://github.com/xillenburg/Pyro-2024/assets/92593235/eaee9e90-745b-4703-ba3a-931ec6ae423a)
+![2024-03-12_00 34 39](https://github.com/xillenburg/Pyro-2024/assets/92593235/d2eb65a1-6dfc-4498-813a-f777ae7ae9da)
+![2024-03-12_01 31 32](https://github.com/xillenburg/Pyro-2024/assets/92593235/c39ee7e5-c622-4877-9458-a139123af682)
+![2024-03-12_01 56 11](https://github.com/xillenburg/Pyro-2024/assets/92593235/5fa76f26-a24b-40e0-af2e-3de937e3375a)
 
 
 
