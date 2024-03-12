@@ -111,10 +111,11 @@ Late Game:
 
 <h3>**With careful consideration, I have decided to make 4 large islands instead of 8 medium sized islands**<h3>
 
-![2024-03-12_00 34 39](https://github.com/xillenburg/Pyro-2024/assets/92593235/d2eb65a1-6dfc-4498-813a-f777ae7ae9da)
 ![2024-03-12_01 31 32](https://github.com/xillenburg/Pyro-2024/assets/92593235/c39ee7e5-c622-4877-9458-a139123af682)
-![2024-03-12_01 56 11](https://github.com/xillenburg/Pyro-2024/assets/92593235/5fa76f26-a24b-40e0-af2e-3de937e3375a)
-![2024-03-12_01 59 34](https://github.com/xillenburg/Pyro-2024/assets/92593235/cdb87f84-4ae5-47b7-91fb-c8988a374c52)
+![2024-03-12_18 28 12](https://github.com/xillenburg/Pyro-2024/assets/92593235/5d20eae1-5a7f-453e-857f-020e4500e739)
+![2024-03-12_18 28 45](https://github.com/xillenburg/Pyro-2024/assets/92593235/44d80cfe-5750-4d97-b2a2-f12ad40fc2be)
+![2024-03-12_18 29 19](https://github.com/xillenburg/Pyro-2024/assets/92593235/d2cecfc1-2667-4565-ae1f-4cc3e1a64de6)
+
 
 
 
