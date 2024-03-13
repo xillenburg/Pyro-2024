@@ -69,6 +69,9 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 
 ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/5af5d3b5-4d0b-469a-9e8f-0415b45e384d) ![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/ad3d12a1-9bca-4a0f-9983-c492731615ed)
 
+<h2>Basic hostile mob - Wisps
+ 
+![image](https://github.com/xillenburg/Pyro-2024/assets/92593235/a471ef13-eab6-4872-a0e1-0299513c5994)
 
 <h3>**OTHER PLANNED FEATURES**<h3>
 <h4>
