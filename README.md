@@ -74,6 +74,8 @@ But the aethereal and purgatorial energy from the past war continues to resonate
 <h4>
 
 **Weapons**
+- Echoing Sword - Produces a sonic boom after a certain amount of hits.
+- Echoing Grenade - Throw and press shift to activate sonic boom.
 - Echoing Void Cannon
 - Gigantism Potion
 - Dwarfism Potion
