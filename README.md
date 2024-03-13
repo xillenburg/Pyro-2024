@@ -2,6 +2,8 @@ The remnants of the now-liberated **Kingdom of Croconoa** remain afloat.
 But the aethereal and purgatorial energy from the past war continues to resonate, giving unique life to each island. Unite the fragments of Croconoa and fight the remaining allies of the damned to free the world.
 
 <h1>This page is dedicated for new weapon previews and showcases<h1>
+ 
+<h1>DUE TO A MAJOR BLOW ON COMMANDS AND A MASSIVE OVERHAUL OF MINECRAFT'S CODE, CUSTOM ITEM CREATION WILL BE ON HOLD. ONLY UPDATES RELATED TO THE MAIN ISLAND UPDATES WILL BE CREATED FROM NOW.<h1>
 <h1>============================================<h1>
 <h2>ALL TEXTURES ARE SUBJECTED TO CHANGE<h2>
 <h2>CREATION OF ITEMS WITH CUSTOM RECIPES ARE CURRENTLY POSTPONED UNTIL MOJANG UPDATES THEIR CODE<h2>
